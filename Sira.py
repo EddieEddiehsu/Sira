@@ -1,5 +1,5 @@
 import time as wow
-choose=bool(input('選擇西拉。月守的命運:'))
+choose=int(input('選擇西拉。月守的命運:'))
 if(choose==0):
     print('殺掉西拉')
     Sira='西拉死了'
