@@ -4,7 +4,7 @@ if(choose==0):
     print('殺掉西拉')
     Sira='西拉死了'
     wow.sleep(5);
-if(choose==1):
+elif(choose==1):
     print('饒過西拉')
     wow.sleep(15);
     print('被迫將她人的命運交給納薩諾斯。凋零者')
